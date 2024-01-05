@@ -10,4 +10,6 @@
       else {
         System.out.println("The file already exists.");
       }
+laptop
+lab
     }
